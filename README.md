@@ -1,4 +1,4 @@
-# ✈️ Web Travel - Piowarior 🌍
+# ✈️ Web Travel - MJD TRAVELER 🌍
 
 Hai semua! 👋  
 Saya baru aja deploy **web travel** saya ke **GitHub Pages** 🎉  
@@ -15,7 +15,7 @@ Belum ada fitur backend atau database ya, jadi semua data masih statis dan hanya
 
 ## 🏝️ Deskripsi Singkat
 
-**Piowarior Travel** adalah website sederhana yang menampilkan informasi tentang destinasi wisata menarik.  
+**MJD TRAVELER** adalah website sederhana yang menampilkan informasi tentang destinasi wisata menarik.  
 Tujuan utamanya adalah melatih kemampuan saya dalam:  
 - ✨ Membuat layout responsif  
 - 🎨 Mendesain tampilan yang menarik  
